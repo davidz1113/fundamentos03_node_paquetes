@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/davidz1113/fundamentos03_node_paquetes#readme",
   "dependencies": {
+    "colors": "^1.3.3",
     "yargs": "^13.2.1"
   }
 }
